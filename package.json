@@ -1,0 +1,17 @@
+{
+  "name": "cdc",
+  "version": "1.0.0",
+  "description": "jobportal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodr main.js",
+    "nodemon": "nodrmon main,js"
+  },
+  "author": "hi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.5"
+  }
+}
